@@ -1,11 +1,11 @@
 package com.openredirec.openredirec.controller;
 
-import java.io.IOException;
+//import java.io.IOException;
 import java.io.InputStream;
 
-import org.springframework.core.io.ResourceLoader;
+//import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
+//import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
